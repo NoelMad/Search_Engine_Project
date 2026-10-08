@@ -1,0 +1,7 @@
+crawled_pages.db
+.DS_Store
+__pycache__/
+*.pyc
+*.pkl
+*.db
+.DS_Store
